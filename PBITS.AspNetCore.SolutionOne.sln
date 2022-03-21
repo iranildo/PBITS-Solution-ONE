@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{A4BF3F0A-9FB9-4C8B-9FDA-D11262636D0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBITS.ProjectOne.Presentation", "PBITS.ProjectOne.Presentation\PBITS.ProjectOne.Presentation.csproj", "{3892E76E-F7F2-47AE-8AFC-B1848A362FD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3892E76E-F7F2-47AE-8AFC-B1848A362FD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3892E76E-F7F2-47AE-8AFC-B1848A362FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3892E76E-F7F2-47AE-8AFC-B1848A362FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3892E76E-F7F2-47AE-8AFC-B1848A362FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3892E76E-F7F2-47AE-8AFC-B1848A362FD8} = {A4BF3F0A-9FB9-4C8B-9FDA-D11262636D0A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66E2633A-A04B-43E1-A89B-9461A544DBC0}
+	EndGlobalSection
+EndGlobal
